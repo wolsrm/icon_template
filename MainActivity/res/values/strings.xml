@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Basic theme information -->
+    <string name="theme_title">YOUR THEME NAME</string>
+    <string name="developer_name">YOUR NAME</string>
+    <!-- This (optional) link will appear at the end of the theme description -->
+    <string name="developer_link">http://forum.xda-developers.com/</string>
+    <string name="theme_description">TEXT</string>
+
+    <!-- Theme settings -->
+    <bool name="config_iconpack">true</bool>
+    <bool name="config_apexskin">true</bool>
+
+    <!-- The feature graphic will appear above the theme description -->
+
+
+    <!-- Each theme may have up to 5 preview images -->
+
+</resources>
