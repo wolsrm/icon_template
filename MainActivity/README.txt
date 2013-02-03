@@ -21,15 +21,11 @@ package="com.yourname.appname" <- com.WHATEVER.WHATEVER (see above)
 android:versionCode="1" <- +1 with every upload in GooglePlayStore
 android:versionName="1" <- Whatever you want, can be "abc" or "1.2.3.4"
 
-#4 
-
-
-
-
+#4
 
 #x-1
-Copy your icons in MainActivity -> res -> drawable-hdpi 
-Copy your wallpapers in MainActivity -> res -> drawable-nodpi 
+Copy your icons in MainActivity/res/drawable-hdpi 
+Copy your wallpapers in MainActivity/res/drawable-nodpi 
 
 #x Once you create an apk with this template just update 
 /MainActivity/res/xml/appfilter.xml
